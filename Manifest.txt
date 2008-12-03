@@ -1,0 +1,12 @@
+History.txt
+LICENSE
+Manifest.txt
+README.txt
+Rakefile
+TODO
+lib/dm-is-revisioned.rb
+lib/dm-is-revisioned/is/version.rb
+lib/dm-is-revisioned/is/revisioned.rb
+spec/spec.opts
+spec/spec_helper.rb
+spec/revisioned_spec.rb
