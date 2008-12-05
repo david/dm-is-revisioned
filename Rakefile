@@ -9,13 +9,13 @@ require ROOT + 'lib/dm-is-revisioned/is/version'
 
 AUTHOR = "David Leal"
 EMAIL  = "dgleal@gmail.com"
-GEM_NAME = "dm-revisioned"
+GEM_NAME = "dm-is-revisioned"
 GEM_VERSION = DataMapper::Is::Revisioned::VERSION
 GEM_DEPENDENCIES = [['dm-core', "~> 0.9.7"]]
 GEM_CLEAN = ["log", "pkg"]
 GEM_EXTRAS = { :has_rdoc => true, :extra_rdoc_files => %w[ README.txt LICENSE TODO ] }
 
-PROJECT_NAME = "dm-is-revisioned"
+PROJECT_NAME = "dm-revisioned"
 PROJECT_URL  = "http://github.com/david/dm-is-revisioned"
 PROJECT_DESCRIPTION = PROJECT_SUMMARY = "DataMapper plugin enabling more flexible versioning of models"
 
